@@ -1,0 +1,11 @@
+  pool: tank
+ state: ONLINE
+config:
+
+	NAME                                       STATE     READ WRITE CKSUM
+	tank                                       ONLINE       0     0     0
+	  mirror-0                                 ONLINE       0     0     0
+	    ata-TOSHIBA_HDWG780UZSVA_16A2A0SWFWAJ  ONLINE       0     0     0
+	    ata-TOSHIBA_HDWG780UZSVA_16A2A09HFWAJ  ONLINE       0     0     0
+
+errors: No known data errors
