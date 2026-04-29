@@ -1,0 +1,2 @@
+example1.sh and example2.sh were obtained from Reddit comments in this thread:
+https://www.reddit.com/r/zfs/comments/rufvx9/what_is_the_best_way_to_constantly_be_monitoring/
